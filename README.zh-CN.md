@@ -4,7 +4,7 @@
 
 三张人像化为流动的双色网点，散开后重新汇聚成标题，适合人像与主题开场。
 
-**16:9 · 1920 × 1080 · 60 fps · v2.5.5** · [@prism-studio](https://motiongit.com/@prism-studio) · [English](README.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.6.0** · [@prism-studio](https://motiongit.com/@prism-studio) · [English](README.md)
 
 **[模板详情、完整 .motion 与 Demo](https://motiongit.com/@prism-studio/visual-art-a-halftone)**
 https://motiongit.com/@prism-studio/visual-art-a-halftone
