@@ -5,7 +5,7 @@
   "owner": "prism-studio",
   "slug": "visual-art-a-halftone",
   "website": "https://motiongit.com/@prism-studio/visual-art-a-halftone",
-  "version": "2.6.4",
+  "version": "2.6.5",
   "technical": {
     "en": [
       "Declared runtime profile: html-canvas/1.",
