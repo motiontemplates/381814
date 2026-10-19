@@ -3,7 +3,7 @@
 Turn three portraits into flowing two-color halftone dots that disperse and regroup into a title.
 
 Template & full download: https://motiongit.com/@prism-studio/visual-art-a-halftone
-Version: 2.6.2
+Version: 2.6.3
 Download available; current terms are listed with the package.
 
 ## Technical reference
