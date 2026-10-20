@@ -4,7 +4,7 @@
 
 Turn three portraits into flowing two-color halftone dots that disperse and regroup into a title.
 
-**16:9 · 1920 × 1080 · 60 fps · v2.6.5** · [@prism-studio](https://motiongit.com/@prism-studio) · [简体中文](README.zh-CN.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.6.6** · [@prism-studio](https://motiongit.com/@prism-studio) · [简体中文](README.zh-CN.md)
 
 **[Template details, full .motion & demo](https://motiongit.com/@prism-studio/visual-art-a-halftone)**
 https://motiongit.com/@prism-studio/visual-art-a-halftone
