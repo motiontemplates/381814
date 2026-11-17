@@ -4,14 +4,14 @@
 
 Turn three portraits into flowing two-color halftone dots that disperse and regroup into a title.
 
-**16:9 · 1920 × 1080 · 60 fps · v2.6.6** · [@prism-studio](https://motiongit.com/@prism-studio) · [简体中文](README.zh-CN.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.6.7** · [@prism-studio](https://motiongit.com/@prism-studio) · [简体中文](README.zh-CN.md)
 
 Motion templates now support asset APIs for background music, stickers, images and video, with free options. Upgraded templates remain **100% free and open source**. Download the upgrade from the official MotionGit page below. MotionGit links API access to individual accounts to prevent abuse from bulk requests. See MotionGit for the scope of free API usage.
 
 **[Download .motion from MotionGit](https://motiongit.com/@prism-studio/visual-art-a-halftone)**
 https://motiongit.com/@prism-studio/visual-art-a-halftone
 
-Download available; current terms are listed with the package.
+Demo available. Check the official page for current download availability.
 
 ## Demo
 

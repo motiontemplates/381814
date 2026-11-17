@@ -1,8 +1,8 @@
 # Halftone Dots · Portrait Title · MotionGit .motion
 
 Template and full package: https://motiongit.com/@prism-studio/visual-art-a-halftone
-Version: 2.6.6
-Download available; current terms are listed with the package.
+Version: 2.6.7
+Demo available. Check the official page for current download availability.
 
 Declared runtime profile: html-canvas/1.
 Editable inputs are mapped through the template parameter schema and preset to its existing animation project.

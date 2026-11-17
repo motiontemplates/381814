@@ -5,7 +5,7 @@
   "owner": "prism-studio",
   "slug": "visual-art-a-halftone",
   "website": "https://motiongit.com/@prism-studio/visual-art-a-halftone",
-  "version": "2.6.6",
+  "version": "2.6.7",
   "technical": {
     "en": [
       "Declared runtime profile: html-canvas/1.",
@@ -18,8 +18,8 @@
       "已声明时间轴为固定时长，本期内容按现有场景顺序和节奏适配。"
     ]
   },
-  "checkedAt": "2026-10-20",
-  "availability": "download-available",
+  "checkedAt": "2026-11-17",
+  "availability": "demo-only",
   "title": {
     "en": "Halftone Dots · Portrait Title",
     "zh": "半调网点 · 人像标题"
